@@ -6,5 +6,5 @@ alias \
     lla='ls -lha' \
     cp='cp -iv' \
     rm='rm -iv' \
-    mv='cp -iv' \
+    mv='mv -iv' \
     mkd="mkdir -pv"
