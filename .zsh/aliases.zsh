@@ -7,4 +7,5 @@ alias \
     cp='cp -iv' \
     rm='rm -iv' \
     mv='mv -iv' \
-    mkd="mkdir -pv"
+    mkd="mkdir -pv" \ 
+    vim="neovim"

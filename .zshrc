@@ -10,7 +10,7 @@ source $OTHER/powerlevel_settings.sh
 
 plugins=(git docker docker-compose virtualenv)
 
-export EDITOR=kak
+export EDITOR=vim
 
 for f in $OTHER/*.zsh; do
   if [ -f $f ]; then

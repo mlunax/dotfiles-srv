@@ -11,6 +11,5 @@ if [ -d "${HOME}/.zsh" ]; then
   rm -rf $HOME/.zsh
 fi
 cp -r .zsh/ .p10k.zsh $HOME
-cp -r .config/ $HOME
 cp .tmux.conf $HOME/.tmux.conf
 source $HOME/.zshrc
